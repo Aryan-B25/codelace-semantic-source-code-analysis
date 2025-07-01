@@ -1,0 +1,28 @@
+{
+  "CodeLACE": {
+    "model_name": "CodeLACE",
+    "overall_accuracy": 0.585,
+    "overall_f1": 0.30774019884638315,
+    "syntactic_accuracy": 0.39,
+    "semantic_accuracy": 0.615,
+    "pragmatic_accuracy": 0.75,
+    "syntactic_f1": 0.0935251798561151,
+    "semantic_f1": 0.20024990628514305,
+    "pragmatic_f1": 0.6294455103978913,
+    "inference_time_ms": 12.371619939804077,
+    "total_samples": 200
+  },
+  "Baseline": {
+    "model_name": "Baseline",
+    "overall_accuracy": 0.26666666666666666,
+    "overall_f1": 0.12028920611976275,
+    "syntactic_accuracy": 0.125,
+    "semantic_accuracy": 0.47,
+    "pragmatic_accuracy": 0.205,
+    "syntactic_f1": 0.06460988151128995,
+    "semantic_f1": 0.18284141596279777,
+    "pragmatic_f1": 0.11341632088520055,
+    "inference_time_ms": 1.039212942123413,
+    "total_samples": 200
+  }
+}
